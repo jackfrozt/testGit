@@ -3,6 +3,7 @@ hi there.
 dobedobedo octocat.
 
 hey some other feature x here added
+and feature y too.
 
 I don’t mean to add this line!
 
